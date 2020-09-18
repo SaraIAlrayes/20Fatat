@@ -196,7 +196,6 @@ iframe {
   float: none;
   margin-right: auto;
   margin-left: auto;
-  opacity: 0;
 }
 
 .phase-img {
@@ -241,6 +240,7 @@ iframe {
   width: 100%;
   overflow: hidden;
   line-height: 0;
+  margin-bottom: -2px;
 }
 
 .custom-shape-divider-bottom-1600223600 svg {
@@ -328,6 +328,7 @@ iframe {
   font-size: 2rem;
   font-weight: 700;
   color: #975796;
+  padding-top: 4%;
 }
 
 .program-column {
