@@ -196,6 +196,7 @@ iframe {
   float: none;
   margin-right: auto;
   margin-left: auto;
+  opacity: 0;
 }
 
 .phase-img {
